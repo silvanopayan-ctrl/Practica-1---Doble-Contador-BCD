@@ -8,12 +8,12 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/include",
-                "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/src",
+                "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/include",
+                "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/src",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/xtensa/esp32/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/xtensa/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/xtensa/deprecated_include",
-                "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/config",
+                "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/.pio/build/esp32dev/config",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/esp_libc/platform_include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/freertos/config/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/freertos/config/include/freertos",
@@ -112,7 +112,7 @@
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/port/psa_crypto_storage/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/include",
-                "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include",
+                "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/.pio/build/esp32dev/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/everest/include",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/p256-m/p256-m",
                 "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/pqcp/include",
@@ -250,12 +250,12 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/include",
-                    "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/src",
+                    "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/include",
+                    "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/src",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/xtensa/esp32/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/xtensa/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/xtensa/deprecated_include",
-                    "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/config",
+                    "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/.pio/build/esp32dev/config",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/esp_libc/platform_include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/freertos/config/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/freertos/config/include/freertos",
@@ -354,7 +354,7 @@
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/port/psa_crypto_storage/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/include",
-                    "C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include",
+                    "C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/.pio/build/esp32dev/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/everest/include",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/p256-m/p256-m",
                     "C:/Users/silsp/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/drivers/pqcp/include",
@@ -507,7 +507,7 @@
             "cppStandard": "gnu++26",
             "compilerPath": "C:/Users/silsp/.platformio/packages/toolchain-xtensa-esp-elf/bin/xtensa-esp32-elf-gcc.exe",
             "compilerArgs": [
-                "@C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/toolchain/cflags",
+                "@C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/.pio/build/esp32dev/toolchain/cflags",
                 ""
             ]
         }
