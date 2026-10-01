@@ -1,0 +1,8 @@
+"-specs=C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/specs/picolibc.specs"
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/silsp/OneDrive/Documentos/GitHub/Practica-1---Doble-Contador-BCD/.pio/build/esp32dev/specs/picolibc.specs"
+-fno-rtti
