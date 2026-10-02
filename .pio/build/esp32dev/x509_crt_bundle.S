@@ -1,4 +1,4 @@
-/* * Data converted from C:\Users\silsp\Documents\Sistemas_Embebidos\Practica1_DobleContador\.pio\build\esp32dev\x509_crt_bundle
+/* * Data converted from C:\Users\silsp\OneDrive\Documentos\GitHub\Practica-1---Doble-Contador-BCD\.pio\build\esp32dev\x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

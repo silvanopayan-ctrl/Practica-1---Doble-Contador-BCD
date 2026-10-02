@@ -1,4 +1,3 @@
-"-specs=C:/Users/silsp/Documents/Sistemas_Embebidos/Practica1_DobleContador/.pio/build/esp32dev/specs/picolibc.specs"
 -Wno-frame-address
 -mlongcalls
 -fno-builtin-memcpy
